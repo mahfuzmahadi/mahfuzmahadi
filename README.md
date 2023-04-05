@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahfuz Rahman</h1>
 <h3 align="center">To employ my knowledge and experience with the goal of securing a professional career with opportunity, for challenges and career advancement, while gaining knowledge of skills and expertise., and helping the organization with maximum efforts to achieve its ultimate goal.</h3>
 
+
+<h4 align="center">I am a Laravel developer with one year of professional experience in software Company.I am open to remote work opportunities as a junior laravel developer , I have a passion for clean code and delivering high-quality software products. I am a team player with excellent communication skills and a strong work ethic. I am eager to learn new technologies and programming techniques to expand my skills.</h4>
+
 <br><br>
 
 <p align="left"> <a href="https://twitter.com/mahfuzmahadi" target="blank"><img src="https://img.shields.io/twitter/follow/mahfuzmahadi?logo=twitter&style=for-the-badge" alt="mahfuzmahadi" /></a> </p>
