@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel backend Development**
 
-- 💬 Ask me about **HTML, CSS,javascript, Tailwind, PHP, Laravel, Mysql**
+- 💬 Ask me about **HTML, CSS, Bootstrap, javascript, Tailwind, PHP, Laravel, Mysql**
 
 - 📫 How to reach me **mahfuzurmahadi@gmail.com**
 
